@@ -7,7 +7,7 @@ setup(name='bigheads',
       author='Arpan Mishra',
       author_email='akmish3@gmail.com',
       license='MIT',
-      packages=['bighead'],
+      packages=['bigheads'],
       install_requires=[
           'bs4','httplib2','pdfkit'
       ],

@@ -1,0 +1,8 @@
+setup.py
+bigheads/__init__.py
+bigheads.egg-info/PKG-INFO
+bigheads.egg-info/SOURCES.txt
+bigheads.egg-info/dependency_links.txt
+bigheads.egg-info/not-zip-safe
+bigheads.egg-info/requires.txt
+bigheads.egg-info/top_level.txt
