@@ -2,10 +2,6 @@ bigheads :scissors:
 ============
 An efficient command line python library to scrape webpages and download the relevant pages as PDFs. It is optimised to be fast and is beneficial for people who do not have access to high-speed internet and require webpages for offline reading.
 
-| Downloads |
-| ------------- |
-| [![PyPi downloads](http://img.shields.io/badge/downloads-30k%20total-blue.svg)](https://pypi.org/project/bigheads/) |
-
 Download
 --------
 
